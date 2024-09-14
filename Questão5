@@ -1,0 +1,7 @@
+Com apenas duas idas, você consegue identificar qual interruptor controla cada lâmpada, utilizando as diferenças de temperatura das lâmpadas como pista.
+
+Por que funciona?
+
+Tempo: Ao ligar o primeiro interruptor e esperar, você cria uma diferença de temperatura entre as lâmpadas.
+Eliminação: Ao ligar o segundo interruptor, você identifica imediatamente uma lâmpada, eliminando uma das possibilidades.
+Dedução: Por exclusão, a lâmpada restante é controlada pelo interruptor que você não mexeu.
